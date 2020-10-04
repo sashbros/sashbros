@@ -22,7 +22,7 @@
 [![](http://img.youtube.com/vi/m7iTqBLRz8o/0.jpg)](http://www.youtube.com/watch?v=m7iTqBLRz8o "")
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sashbros&count_private=true&include_all_commits=true&show_icons=true&hide=issues,contribs&hide_border=true&theme=dark" alt="sashbros" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sashbros&count_private=true&include_all_commits=true&show_icons=true&hide=issues,contribs&hide_border=true&theme=tokyonight" alt="sashbros" /></p>
 
 
 <!--

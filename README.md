@@ -1,4 +1,4 @@
-### Hey noobs 👋
+### Hey tyro 👋
 
 #### I don't know what made you mark your presence here, but worry not, this is a gold mine.
 

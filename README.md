@@ -1,4 +1,4 @@
-### Hey tyro 👋
+### Hello
 
 #### I don't know what made you mark your presence here, but worry not, this is a gold mine.
 
@@ -22,7 +22,6 @@
 [![](http://i3.ytimg.com/vi/nnR4rI_viqU/hqdefault.jpg)](https://www.youtube.com/watch?v=nnR4rI_viqU "")
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sashbros&count_private=true&include_all_commits=true&show_icons=true&hide=issues,contribs&hide_border=true&theme=tokyonight" alt="sashbros" /></p>
 
 
 <!--
